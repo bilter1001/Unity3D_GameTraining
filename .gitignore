@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/MotionMatchingTutorials/Library
+/MotionMatchingTutorials/Logs
+/MotionMatchingTutorials/Temp
+/MotionMatchingTutorials/UserSettings
